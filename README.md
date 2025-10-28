@@ -1,5 +1,9 @@
 # Claude Code Template for Awesome Lists
 
+[![Claude Code](https://img.shields.io/badge/Claude-Code-8A2BE2?logo=anthropic)](https://claude.ai/code)
+[![Claude Code Projects](https://img.shields.io/badge/More-Claude%20Code%20Projects-blue)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![GitHub Index](https://img.shields.io/badge/Master-Index-brightgreen)](https://github.com/danielrosehill/Github-Master-Index)
+
 A template repository designed to streamline the creation of high-quality curated resource lists ("Awesome Lists") using Claude Code.
 
 ## Purpose
