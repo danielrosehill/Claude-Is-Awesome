@@ -1,0 +1,9 @@
+# Exclude all of .claude (settings, history, etc.)
+.claude/*
+
+# But include the commands directory for sharing
+!.claude/commands/
+!.claude/commands/**
+
+ 
+ 
